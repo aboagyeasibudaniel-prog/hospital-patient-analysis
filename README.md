@@ -23,7 +23,7 @@ A complete data analysis project performed on 500 hospital patient records using
 - July is the peak month with 59 admissions
 
 ## Dashboard Preview
-![Hospital Dashboard](dashboard (2).png)
+![Hospital Dashboard](dashboard(2).png)
 
 ## Files
 - hospital_complete_report.docx — Full documentation
