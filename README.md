@@ -22,6 +22,9 @@ A complete data analysis project performed on 500 hospital patient records using
 - Dr. Owusu is the top doctor with $393K revenue
 - July is the peak month with 59 admissions
 
+## Dashboard Preview
+![Hospital Dashboard](dashboard (2).png)
+
 ## Files
 - hospital_complete_report.docx — Full documentation
 - hospital_dashboard_v2.xlsx — Excel dashboard file
